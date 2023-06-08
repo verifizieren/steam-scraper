@@ -2,6 +2,7 @@
 This simple python tool can scrape steam lists.
 
 Example Output:
+```
 +-----------------------------------+--------------+
 |               Title               |    Price     |
 +-----------------------------------+--------------+
@@ -20,3 +21,4 @@ Example Output:
 |  Tom Clancy's Rainbow Six® Siege  | 19,99€7,99€  |
 |                Rust               |    39,99€    |
 +-----------------------------------+--------------+
+```
