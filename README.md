@@ -1,5 +1,5 @@
 # steam-scraper
-This simple python tool can scrape steam lists.
+This simple python tool can scrape steam lists. Going to get updated later.
 
 Example Output:
 ```
